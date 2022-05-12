@@ -1,0 +1,25 @@
+.a{
+    border-style:outset;
+    width:70%;
+    margin: auto;
+    height:90vh;
+    padding-top: 20px;
+    margin-top: 20px;
+    border-radius: 30px;
+}
+.b{
+   display: flex;
+   justify-content:space-around;
+}
+
+.out{
+    border-style:outset;
+    width:40%;
+    text-align: center;
+    margin: auto;
+    height:60vh;
+    padding-top: 20px;
+    margin-top: 20px;
+    border-radius: 30px;
+
+}
